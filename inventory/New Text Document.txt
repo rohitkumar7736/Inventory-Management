@@ -1,0 +1,19 @@
+<body>
+<html>
+<form name=f>
+<table border=2>
+<tr>
+<th>inventory</th>
+<th>input type=text submit value=show onclick=a()></th>
+</tr>
+</table>
+</form>
+</body>
+  <script>
+      function a()
+      {
+         window.open("inventory.php")
+      }
+  </script>
+
+  
